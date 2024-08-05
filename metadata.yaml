@@ -1,0 +1,36 @@
+_repo: The-founding-of-New-England_73933
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adams, James Truslow
+    birthdate: 1878
+    deathdate: 1949
+    gutenberg_agent_id: '57280'
+    url: http://www.gutenberg.org/2009/agents/57280
+    wikipedia: https://en.wikipedia.org/wiki/James_Truslow_Adams
+description: ''
+gutenberg_issued: '2024-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73933'
+  lccn: '21009397'
+language: en
+pgterms:marc904: https://archive.org/details/foundingofneweng00adam/
+pgterms:marc905: 20220602145954adams
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: KD Weeks, hekula0KD Weeks, hekula03 and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)3 and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aBoston :$bThe Atlantic Monthly Press, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New England -- History -- Colonial period, ca. 1600-1775'
+- !lcc 'F001'
+- GITenberg
+title: The founding of New England
+url: http://www.gutenberg.org/ebooks/73933
